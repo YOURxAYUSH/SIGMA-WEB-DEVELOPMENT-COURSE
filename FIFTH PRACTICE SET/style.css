@@ -1,0 +1,23 @@
+.orange{
+    background-color: rgb(0, 0, 178);
+}
+
+.shirt{
+    color: aliceblue;
+}
+
+#green{
+    color: rgba(228, 207, 149, 0.845);
+
+}
+
+#purple{
+    color:rgb(34, 0, 255)
+}
+
+.thermal{
+    background-color: bisque;
+}
+
+/* #idname -- to add id
+   .classname-- to add class */
