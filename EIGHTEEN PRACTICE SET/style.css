@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+
+    display:flex;
+    justify-content:safe;
+    align-items:center;
+    height:50vh;
+    
+    margin-top:7vh;
+    gap:70px;
+   
+   
+
+
+
+
+}
+
+
+
+.box{
+    height:20vh;
+    width:15vw;
+    background-image: url("car.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    position:relative;
+    left:50px;
+   
+    
+    border:1px solid black;
+    
+ 
+}
+
+.box p {
+ margin-top: 15vh;
+ margin-left:11vw;
+ color:white;
+}
+
+.naming{
+    margin-left:20px;
+    margin-bottom:13vh;
+}
+
+.naming div:first-child{
+    padding:20px 0px;
+}
+
+.naming div:nth-child(2) span{
+    padding-right:10px ;
+    
+}
+
+.naming div:nth-child(2) span:nth-child(2){
+    padding-right:0px;
+}
+.naming div:nth-child(2) span:nth-child(4){
+    padding-right:0px;
+}
